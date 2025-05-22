@@ -6,7 +6,8 @@ const alumnosRoutes = require('./routes/alumnos');
 app.use(cors()); 
 app.use('/alumnos', alumnosRoutes); 
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3000; // ✅ usa process.env.PORT
 app.listen(PORT, () => {
   console.log(`API escuchando en http://localhost:${PORT}`);
 });
+
