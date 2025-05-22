@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "nombre": "Jimenez Julián Williams",
+    "foto": "https://drive.google.com/uc?export=view&id=1ScvBe-Vjq3XT_lC5g-3aYWRCxnSvHgx7",
+    "kardex": "https://drive.google.com/uc?export=view&id=1nTNnSP9mYS68osS5x5HQH2oK4pTqHJ9N",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 2,
+    "nombre": "Tirado López Alejandro Baldomero",
+    "foto": "https://drive.google.com/uc?export=view&id=1zIg2wwCNCDx0xYa5bLxYmsT5hULdEiAk",
+    "kardex": "https://drive.google.com/uc?export=view&id=1-gKmGvUxxXNsDzsJmjwVB9AU3nRzzrLm",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 3,
+    "nombre": "Valenzuela Osuna Saúl",
+    "foto": "https://drive.google.com/uc?export=view&id=1YI_xBJ3hVjw4IwCxQKnL6SxHJMoJKKc9",
+    "kardex": "https://drive.google.com/uc?export=view&id=1TejoqmR2CS1Ne4JE5IEi4cMGJq2XkqEp",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 4,
+    "nombre": "Ruiz Tirado Saúl Gadier",
+    "foto": "https://drive.google.com/uc?export=view&id=1HtrwFu1zaZO0SCt1S3ieHHCI2rS226Fp",
+    "kardex": "https://drive.google.com/uc?export=view&id=1kiz_4Iy8YmQwJ3XXcYD2njg0xe6t2tPo",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 5,
+    "nombre": "Guzmán Balveneda Ricardo",
+    "foto": "https://drive.google.com/uc?export=view&id=1SMbGz13W2lbjSHWlWOlVMcKn88j8_wsX",
+    "kardex": "https://drive.google.com/uc?export=view&id=1Bi4QZ69MbCtqXEIfoN6HrYkGY_ZMyMBO",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 6,
+    "nombre": "Sotomayor Urrea Octavio Ariel",
+    "foto": "https://drive.google.com/uc?export=view&id=1WWAwY5mqZlhDxVZ20S-Q2M6EMsRgXPCp",
+    "kardex": "https://drive.google.com/uc?export=view&id=17K6epC5aBgL6IgEq7UJ1SRGUw9g4OWUr",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 7,
+    "nombre": "Vargas Jimenez Miguel Ángel",
+    "foto": "https://drive.google.com/uc?export=view&id=1K7c3ujGZOpkJC4bGjTJBXXSfvz8Udqyi",
+    "kardex": "https://drive.google.com/uc?export=view&id=1zJcheciaaqRqo0JZ-zDjWzOzgxzn1buR",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 8,
+    "nombre": "Díaz Díaz Miguel Alexis",
+    "foto": "https://drive.google.com/uc?export=view&id=195OB0exe7tNTk8dRJLOaztLSPhPdE1xV",
+    "kardex": "https://drive.google.com/uc?export=view&id=1ogT88Ckmj04vs9upQZJRx4mAwD2GdTDK",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 9,
+    "nombre": "Arreola Miguel",
+    "foto": "https://drive.google.com/uc?export=view&id=1qLarxE-IAo-Bsprk7D3Cv5kSnarfwufn",
+    "kardex": "https://drive.google.com/uc?export=view&id=1y7I1nLfzFluYUNt_aFksNlmYevIKBqo9",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 10,
+    "nombre": "Rocha Angulo Jesús Mauricio",
+    "foto": "https://drive.google.com/uc?export=view&id=12vhDti_a125dlkN7QhZFdrOpM-QHIOZ7",
+    "kardex": "https://drive.google.com/uc?export=view&id=1XF7vjL4-Aaxi97NY_9GzAkRHrcwt9Syw",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 11,
+    "nombre": "Birrueta Rubio Manuel Alejandro",
+    "foto": "https://drive.google.com/uc?export=view&id=1uSBjuwfoAHCjPA7CLOdwWXGn0qcvfdFe",
+    "kardex": "https://drive.google.com/uc?export=view&id=1uSBjuwfoAHCjPA7CLOdwWXGn0qcvfdFe",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 12,
+    "nombre": "Simental López Luis Mario",
+    "foto": "https://drive.google.com/uc?export=view&id=1vtS9oUq1rx28hImuZCoQIcEw35gT2Twx",
+    "kardex": "https://drive.google.com/uc?export=view&id=1U2rTu7_C4sHPFeOMxjSM9U8BFzKIf6d1",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 13,
+    "nombre": "Sánchez Valdespino Luis Armando",
+    "foto": "https://drive.google.com/uc?export=view&id=1DnjnMqNB6iEwwrpKZHe-XvBqgehXG999",
+    "kardex": "https://drive.google.com/uc?export=view&id=1DbQPrXf8iRzXa6QYlCdwwL9FXqeW50hw",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 14,
+    "nombre": "Guardado Garza Katherine Galilea",
+    "foto": "https://drive.google.com/uc?export=view&id=11j0hekGNy9GyaLzZrtKO8tKPNgF-Ez_P",
+    "kardex": "https://drive.google.com/uc?export=view&id=1TeBhshPfriqtHWioaRepaLS3fkKOX_mR",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 15,
+    "nombre": "Alarcón García Valeria Leticia",
+    "foto": "https://drive.google.com/uc?export=view&id=1v5UmdRScBSvyXOctU12pTE2_hV7GGyy8",
+    "kardex": "https://drive.google.com/uc?export=view&id=14vctvSSH_nTvIJC87s4Aw5DS40icOKBM",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 16,
+    "nombre": "Mendoza Peinado Juan de Dios",
+    "foto": "https://drive.google.com/uc?export=view&id=1F-jVbiNlOzCowihHZUJuDrPFGT2dd-3Z",
+    "kardex": "https://drive.google.com/uc?export=view&id=1mcVz3IaFQeDBV4SskyddxWWxI8SD9n_N",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 17,
+    "nombre": "Santana Esparza José David",
+    "foto": "https://drive.google.com/uc?export=view&id=1HnHtl83-ojFJ6JBFcvW_n7Z1RAziIZLq",
+    "kardex": "https://drive.google.com/uc?export=view&id=18qyiZHjIfvEFK4mmit-tqN1BvzlxDHxl",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 18,
+    "nombre": "Mendoza Ibarra Joel Lorenzo",
+    "foto": "https://drive.google.com/uc?export=view&id=1EMVxqOPYMdCYzlpXsI9je0r2LKIZj6uZ",
+    "kardex": "https://drive.google.com/uc?export=view&id=1LsnIoBncaTY1X_D4lG_WSLmGxeQY5VxB",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 19,
+    "nombre": "Valverde Pérez Jesús Manuel",
+    "foto": "https://drive.google.com/uc?export=view&id=1LPHPYxgobYepyEjjUCOxjZDRnXUFkuTi",
+    "kardex": "https://drive.google.com/uc?export=view&id=18ApjQj_19c4hnXdAltt-v8uIACPd9rrC",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 20,
+    "nombre": "Herrera Velarde Jesús Guadalupe",
+    "foto": "https://drive.google.com/uc?export=view&id=18k_GX5KlhzyF3sZcnPDTdh3qXk9hhegO",
+    "kardex": "https://drive.google.com/uc?export=view&id=1hs-jnjWSe-WJd5TM6dHlc6CnuvbM2gS9",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 21,
+    "nombre": "Granados Pardo Javier Emmanuel",
+    "foto": "https://drive.google.com/uc?export=view&id=1mkSwLe24Nprv62KSL9kOgwDBZ0lo6reB",
+    "kardex": "https://drive.google.com/uc?export=view&id=1mkU0OHWvaLR8KWi39sJRLgiUXJn6AgGy",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 22,
+    "nombre": "Tiznado Gutiérrez Javier Elizael",
+    "foto": "https://drive.google.com/uc?export=view&id=1pxzO1FK8cUxeGXfvThyuHhnkWwez63Bd",
+    "kardex": "https://drive.google.com/uc?export=view&id=1C-kRwrDV5KQ9guqTGhYM4sqYwoBUUOpB",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 23,
+    "nombre": "Coronel Benítez Jaime",
+    "foto": "https://drive.google.com/uc?export=view&id=1KdltN4dnpIXT6fkFJx6dcCl9yzVLtTj2",
+    "kardex": "https://drive.google.com/uc?export=view&id=1tKNCEPdnyh-ByaezVAa4qn7a0MF9fYWo",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 24,
+    "nombre": "Guzmán Tapia Heber Eduardo",
+    "foto": "https://drive.google.com/uc?export=view&id=1gQWAcEZPUSfkitzbkzHZf_9HKaOXiLGY",
+    "kardex": "https://drive.google.com/uc?export=view&id=1exOyOlIuvyo4pjZSl8lFrcOgkUuZdCHV",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 25,
+    "nombre": "Caravantes Cruz Francisco Antonio",
+    "foto": "https://drive.google.com/uc?export=view&id=1i5gYgZyWE_GC4qLknuODiJ6kGuBX8_ik",
+    "kardex": "https://drive.google.com/uc?export=view&id=1iCB2vfEGCxc6SYJ2amxiqPvMEeMgtjbV",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 26,
+    "nombre": "Ibarra Sánchez Eduardo Humberto",
+    "foto": "https://drive.google.com/uc?export=view&id=1AENwZjcLck9DQcD5EurXWwB74g0kgjsx",
+    "kardex": "https://drive.google.com/uc?export=view&id=17drJOuLLOJvh54Ycoa1T98hCnC0cNp0G",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 27,
+    "nombre": "Torres Romero Carlos Daniel",
+    "foto": "https://drive.google.com/uc?export=view&id=1siPF9tBZbeMQSgjwYWF5m-r5paFuJ4mx",
+    "kardex": "https://drive.google.com/uc?export=view&id=1ZKvUaUSeFNsCB-Itv9Ig3HycyoWYxMbx",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 28,
+    "nombre": "Madueño Zavala Cinthia Denisse",
+    "foto": "https://drive.google.com/uc?export=view&id=1JTeeTF3lNfMWvFyKrU5vWMKgebdDXgUe",
+    "kardex": "https://drive.google.com/uc?export=view&id=1-gWr8f0m2CaqAAkNcn3yDIAR47tEmlMA",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 29,
+    "nombre": "Ortíz Ruiz César Julián",
+    "foto": "https://drive.google.com/uc?export=view&id=12PO5AjOt0F6FbHykfCdRAlUNajZ7-I_J",
+    "kardex": "https://drive.google.com/uc?export=view&id=1wVtjv3GV0JtCFVbZKhPAq2HqyqwHU7n5",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 30,
+    "nombre": "Galindo Virgen Brandon Giovanni",
+    "foto": "https://drive.google.com/uc?export=view&id=1IyLvjTlKdAtv91vR1aBFF9qrw2SlNBzx",
+    "kardex": "https://drive.google.com/uc?export=view&id=1BqAJZvedyDzNxYBKfJgfTbRYUQXk29u9",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 31,
+    "nombre": "Ruiz Páez Ángel Adrián",
+    "foto": "https://drive.google.com/uc?export=view&id=1Vel7gv30v9J67U1TnZYtbazLv6lvIkfm",
+    "kardex": "https://drive.google.com/uc?export=view&id=13oJzSjZPr15kXX5Pnm3eyJfRKTqgIAP8",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  }
+]
