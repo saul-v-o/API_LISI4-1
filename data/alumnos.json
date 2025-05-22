@@ -277,5 +277,50 @@
     "licenciatura": "Ing. Sistemas de Información",
     "grado": "4",
     "grupo": "1"
+  },
+  {
+    "id": 32,
+    "nombre": "Balam Mascareño Jorge Alberto",
+    "foto": "https://drive.google.com/uc?export=view&id=1Vel7gv30v9J67U1TnZYtbazLv6lvIkfm",
+    "kardex": "https://drive.google.com/uc?export=view&id=1tp-ZE_C5daS_RPGAA5wxtgrkR61hgfws",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 33,
+    "nombre": "Medina Estrada Jorge Antonio",
+    "foto": "https://drive.google.com/uc?export=view&id=1Vel7gv30v9J67U1TnZYtbazLv6lvIkfm",
+    "kardex": "https://drive.google.com/uc?export=view&id=1HgBvW7JvLYfWBiOe128ZOsY-Znfbdz3m",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 34,
+    "nombre": "Colín Lozano Miguel Ángel",
+    "foto": "https://drive.google.com/uc?export=view&id=1-qGjsIcvMjirLhfuD80YAkJZ0CSvGVCH",
+    "kardex": "https://drive.google.com/uc?export=view&id=13S3P7GvSp_xY7SaZQqZ4GbT1e-NTNj_5",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 35,
+    "nombre": "Fernández Sánchez Jesús Alberto",
+    "foto": "https://drive.google.com/uc?export=view&id=1JRhK0uOqQzcNGEsfUkHpDjh0iiJCfh1L",
+    "kardex": "1dQcGWMKW2i_IIBfGfyd2dpqr7tAmwVtG",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
+  },
+  {
+    "id": 36,
+    "nombre": "Parra Hernández Ernesto César Raúl",
+    "foto": "https://drive.google.com/uc?export=view&id=1cBvXC-PhErGu1HjpjblqqTIHszLnWsk2",
+    "kardex": "https://drive.google.com/uc?export=view&id=17RILmI6O38Jw8ai_P4LGQ3i6p3S-8zfw",
+    "licenciatura": "Ing. Sistemas de Información",
+    "grado": "4",
+    "grupo": "1"
   }
 ]
